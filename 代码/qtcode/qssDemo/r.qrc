@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>res/freeStyle.css</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/hand.png</file>
+        <file>res/uparrow.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>res/clock.png</file>
+        <file>res/qt.png</file>
+    </qresource>
+</RCC>
